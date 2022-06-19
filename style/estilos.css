@@ -162,18 +162,6 @@ footer{
     animation: logo 4s;
 }
 
-@keyframes logo {
-    0%{
-        transform: translateX(500px);
-    }
-    50%{
-        transform: scale(3);
-    }
-    85%{
-        transform: translateY(100px);
-    }
-}
-
 
 
 
