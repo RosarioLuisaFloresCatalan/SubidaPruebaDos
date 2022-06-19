@@ -159,15 +159,18 @@ footer{
 }
 
 .imgAnim:hover{
-    animation: logo 4s;
+    animation: logo 6s;
 }
 
-
-
-
-
-
-
-
-
+@keyframes logo {
+    0%{
+        transform: translateX(500px);
+    }
+    50%{
+        transform: scale(2);
+    }
+    85%{
+        transform: translateY(100px);
+    }
+}
 
