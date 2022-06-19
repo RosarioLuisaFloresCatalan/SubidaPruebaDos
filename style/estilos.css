@@ -159,7 +159,7 @@ footer{
 }
 
 .imgAnim:hover{
-    animation: logo 4s;
+    animation: logo 3s;
 }
 
 @keyframes logo {
@@ -173,13 +173,3 @@ footer{
         transform: translateY(100px);
     }
 }
-
-
-
-
-
-
-
-
-
-
